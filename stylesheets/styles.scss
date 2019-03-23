@@ -73,7 +73,7 @@ h1.logo img {
   width: 250px;
   height: 62px;
   display: block;
-  margin: 0 5px;
+
 }
 
 .top-block {
@@ -174,10 +174,12 @@ h1.logo img {
   }
   li {
     flex: 0 0 340px;
+    margin: 0 5px;
   }
   img {
     width: 360px;
     height: 240px;
+    
   }
 }
 
